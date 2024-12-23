@@ -175,7 +175,7 @@ def evaluate_smi_multi(orig_smiles, pred_smiles, part, n_samples):
     print("Qualified Samples", count_rd/count)
     print("Novelty:", count_nv/count_rd)
     print("Diversity:", np.mean(diversity))
-    print("Diversity-novel", np.mean(diversity_novel))
+    print("Validity:", validity_score)
     return validity_score, np.mean(diversity)
 
 def exists(x):
