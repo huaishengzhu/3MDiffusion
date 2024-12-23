@@ -1,4 +1,4 @@
-# 3M-Diffusion: Latent Multi-Modal Diffusion for Text-Guided Generation of Molecular Graphs
+# 3M-Diffusion: Latent Multi-Modal Diffusion for Language-Guided Molecular Structure Generation
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2205.12454-b31b1b.svg)](https://arxiv.org/abs/2403.07179)
